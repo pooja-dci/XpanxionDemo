@@ -1,14 +1,14 @@
 public class EveryOneModifies {
 
   public static void main(String[] args) {
-<<<<<<< HEAD
+
     
       System.out.println("Pooja Purohit");
 
 	System.out.println("Bailey Patt");
-=======
 
-    System.out.println("Pooja Purohit");
+
+    
 
 
    
