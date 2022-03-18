@@ -5,6 +5,7 @@ public class EveryOneModifies {
     
       System.out.println("Pooja Purohit");
 
+<<<<<<< Updated upstream
 
       System.out.println("Shane Cupid");
 
@@ -24,5 +25,8 @@ public class EveryOneModifies {
    System.out.println("Jonathan Ocampo");
 
 
+=======
+      System.out.println("Chelsea Cole");
+>>>>>>> Stashed changes
   }
 }
