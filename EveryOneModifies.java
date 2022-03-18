@@ -4,6 +4,13 @@ public class EveryOneModifies {
 
     System.out.println("Pooja Purohit");
 
-    System.out.println("Jonathan Ocampo");
+
+   
+
+    System.out.println("The Amazing Anatalio wants a piece of this project!");
+
+    System.out.println("Connor -The Realist- Goodson");
+
+   System.out.println("Jonathan Ocampo");
   }
 }
