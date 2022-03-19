@@ -15,7 +15,8 @@ public class EveryOneModifies {
     
        Feature-Justice
       System.out.println("Pooja Purohit");
-System.out.println("Bijay");
+    //printing name
+      System.out.println("Bijay");
 
       System.out.println("Justice Engle, this better work >:O");
 
