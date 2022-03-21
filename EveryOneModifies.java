@@ -12,23 +12,8 @@ public class EveryOneModifies {
     System.out.println("Connor -Didnt Re-enlist- Goodson");
 
     System.out.println("Jonathan Ocampo");
-    
-       Feature-Justice
-      System.out.println("Pooja Purohit");
-    //printing name
-      System.out.println("Bijay");
 
-      System.out.println("Justice Engle, this better work >:O");
-
-    System.out.println("Bailey Patt");
-
-    System.out.println("Chelsea Cole");
-	
-	System.out.println("Tomas Carrillo");
-	  
-	System.out.println("Justin Palso");
-
-
+    System.out.println("Jon Rodriguez");
 
   }
 }
